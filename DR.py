@@ -1,1 +1,4 @@
 print "Welcome"
+
+
+auto save
